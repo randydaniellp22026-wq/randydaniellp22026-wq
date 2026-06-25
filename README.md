@@ -1,140 +1,40 @@
-<!-- Header -->
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFwZ2IzZnpwajlvejdhdjA3MzZjY2ZhcWtoMGh0YzFocnFtNDg3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8yJwmkSJg7mx8OiBjL/giphy.gif" width="100%" alt="Ranz - TYP header">
-  <br>
-  <br>
-  
-  <img src="path_to_developer_title.png" alt="Randy Lizarme - Full Stack Developer">
-  <br>
-  <br>
-
-  <img src="path_to_description_text.png" alt="4+ years of crafting digital experiences"> 
-
-  <div style="display: flex; gap: 10px; justify-content: center;">
-    <a href="your_website_url">
-      <img src="path_to_website_badge.png" alt="Website">
-    </a>
-    <a href="your_linkedin_url">
-      <img src="path_to_linkedin_badge.png" alt="LinkedIn">
-    </a>
-    <a href="your_twitter_url">
-      <img src="path_to_twitter_badge.png" alt="Twitter">
-    </a>
-    <a href="your_instagram_url">
-      <img src="path_to_instagram_badge.png" alt="Instagram">
-    </a>
-    <a href="your_facebook_url">
-      <img src="path_to_facebook_badge.png" alt="Facebook">
-    </a>
-  </div>
+  <img src="https://raw.githubusercontent.com/randydaniellp22026-wq/randydaniellp22026-wq/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/randydaniellp22026-wq/randydaniellp22026-wq/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=true" height="150" alt="languages graph" />
 </div>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+</div>
 
+<br clear="both">
 
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJqc2xxbWgydGhxdHJoNWJkd3JlYjc2OXRqcHc5Mzg0NWM0cThoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</div>
 
+<br clear="both">
 
-
-```typescript
-const alsiam = {
-    pronouns: "he" | "him",
-    location: "Bangladesh 🇧🇩",
-    role: "Full Stack Developer",
-    company: "Open to opportunities",
-    languages: ["TypeScript", "JavaScript", "Python"],
-    technologies: {
-        frontend: ["React", "Next.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express"],
-        database: ["MongoDB", "PostgreSQL"],
-        tools: ["Docker", "Git", "VS Code", "Figma"]
-    },
-    currentFocus: "Building beautiful, performant web experiences",
-    funFact: "I think dark mode is the only mode 🌑"
-};
-```
-
-<br>
-
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,tailwind,docker,git,github,vscode,figma,linux,python,redux,html,css,sass&theme=dark&perline=10" alt="Tech Stack" />
-  </a>
-</p>
-
-<br>
-
-
-<p align="center">
-  <a href="https://github.com/alsiam/itasks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="iTasks" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/alsiam/folio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=folio&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="folio" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/alsiam/web-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Web Projects" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/alsiam/readme">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=readme&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Profile README" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<br>
-
-<!-- GitHub Stats -->
-## `> github_stats`
-
-<p align="center">
-  <a href="https://github.com/alsiam">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false&ring_color=0070F3" alt="Al Siam's Stats" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/alsiam">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&background=000000&border=333333&stroke=333333&ring=0070F3&fire=0070F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0070F3&sideLabels=888888&dates=555555" alt="GitHub Streak" />
-  </a>
-</p>
-
-<br>
-
-<!-- Contribution Snake -->
-## `> contributions`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alsiam/alsiam/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alsiam/alsiam/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/alsiam/alsiam/output/github-snake-dark.svg" width="100%">
-</picture>
-
-<br>
-
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20Contribution%20Graph&bg_color=000000&color=EDEDED&line=0070F3&point=00DFD8&area_color=0070F3&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-  </a>
-</p>
-
-<br>
-
-<!-- Footer -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
-  <img alt="Footer" src="assets/footer-dark.svg" width="100%">
-</picture>
-###
+<img src="https://raw.githubusercontent.com/randydaniellp22026-wq/randydaniellp22026-wq/snake-output/snake.svg" alt="Snake animation" />
