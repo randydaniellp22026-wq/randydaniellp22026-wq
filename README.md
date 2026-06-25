@@ -44,12 +44,7 @@
   </a>
 </p>
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/randydaniellp22026-wq">
-    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=22&duration=4000&pause=1000&color=EDEDED&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=50&lines=Full+Stack+Developer+%7C+Open+Source+Contributor;Building+beautiful+things+for+the+web;4%2B+years+of+crafting+digital+experiences" alt="Typing SVG" />
-  </a>
-</p>
+
 
 <!-- Social Links -->
 <p align="center">
