@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="path_to_matrix_header.gif" width="100%" alt="Ranz - TYP header">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFwZ2IzZnpwajlvejdhdjA3MzZjY2ZhcWtoMGh0YzFocnFtNDg3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8yJwmkSJg7mx8OiBjL/giphy.gif" width="100%" alt="Ranz - TYP header">
   <br>
   <br>
   
