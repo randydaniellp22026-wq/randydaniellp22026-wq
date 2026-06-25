@@ -8,15 +8,7 @@
   <br>
   <br>
 
-  <a href="https://github.com/RandyLizarme">
-    <img src="path_to_views_badge.png" alt="Profile Views">
-  </a>
-  <br>
-  <br>
-
-  <img src="path_to_description_text.png" alt="4+ years of crafting digital experiences">
-  <br>
-  <br>
+  <img src="path_to_description_text.png" alt="4+ years of crafting digital experiences"> 
 
   <div style="display: flex; gap: 10px; justify-content: center;">
     <a href="your_website_url">
@@ -37,12 +29,6 @@
   </div>
 </div>
 
-
-<p align="right">
-  <a href="https://github.com/randydaniellp22026-wq">
-    <img src="https://komarev.com/ghpvc/?username=alsiam&label=Profile%20Views&color=0070F3&style=flat" alt="Profile Views" />
-  </a>
-</p>
 
 
 
