@@ -12,8 +12,6 @@
 <div data-importer="techs" align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdvcHV1Z2pvZHd6NndrdDQ4cGU0ZTdrcmU0M2d5MGJpYnYwcXJ0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img data-importer="techs" height="30" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJid25vMWEyazN1Y3owcGdoNmJxYXNyeW4zaGdqYW90cnlncXU4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWF2b2g0YjBqd2o3b2tsY3liYnllY3VhM3ZiN3pobXlscWNoZXpsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lRNinuXDDLgR7Oe8LY/giphy.gif" height="30" alt="html5 logo"  />
