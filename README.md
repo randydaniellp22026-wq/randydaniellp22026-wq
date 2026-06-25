@@ -1,10 +1,41 @@
 <!-- Header -->
-<picture>
-  <img width=100% title="Randy Lizarme" alt="Randy Lizarme" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Randy Lizarme-TYP&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Al Siam — Full Stack Developer" src="assets/header-dark.svg" width="100%">
-</picture>
+<div align="center">
+  <img src="path_to_matrix_header.gif" width="100%" alt="Ranz - TYP header">
+  <br>
+  <br>
+  
+  <img src="path_to_developer_title.png" alt="Randy Lizarme - Full Stack Developer">
+  <br>
+  <br>
+
+  <a href="https://github.com/RandyLizarme">
+    <img src="path_to_views_badge.png" alt="Profile Views">
+  </a>
+  <br>
+  <br>
+
+  <img src="path_to_description_text.png" alt="4+ years of crafting digital experiences">
+  <br>
+  <br>
+
+  <div style="display: flex; gap: 10px; justify-content: center;">
+    <a href="your_website_url">
+      <img src="path_to_website_badge.png" alt="Website">
+    </a>
+    <a href="your_linkedin_url">
+      <img src="path_to_linkedin_badge.png" alt="LinkedIn">
+    </a>
+    <a href="your_twitter_url">
+      <img src="path_to_twitter_badge.png" alt="Twitter">
+    </a>
+    <a href="your_instagram_url">
+      <img src="path_to_instagram_badge.png" alt="Instagram">
+    </a>
+    <a href="your_facebook_url">
+      <img src="path_to_facebook_badge.png" alt="Facebook">
+    </a>
+  </div>
+</div>
 
 
 <p align="right">
