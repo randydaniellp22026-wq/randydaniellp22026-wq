@@ -16,9 +16,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWF2b2g0YjBqd2o3b2tsY3liYnllY3VhM3ZiN3pobXlscWNoZXpsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lRNinuXDDLgR7Oe8LY/giphy.gif" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVtdXhna3ozd2N4ZjR2cTVjMWdxZGJidHhvaW96eHB2MzN6YzZ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JLE3Q31O7Tly08kTbj/giphy.gif" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
