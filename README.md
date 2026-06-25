@@ -1,68 +1,151 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Randy and I'm a web developer, from Costa Rica</h2>
+<!-- Header -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Al Siam — Full Stack Developer" src="assets/header-dark.svg" width="100%">
+</picture>
 
-###
+<!-- Profile Views -->
+<p align="right">
+  <a href="https://github.com/alsiam">
+    <img src="https://komarev.com/ghpvc/?username=alsiam&label=Profile%20Views&color=0070F3&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/randydaniellp22026-wq/randydaniellp22026-wq/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/randydaniellp22026-wq/randydaniellp22026-wq/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=22&duration=4000&pause=1000&color=EDEDED&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=50&lines=Full+Stack+Developer+%7C+Open+Source+Contributor;Building+beautiful+things+for+the+web;4%2B+years+of+crafting+digital+experiences" alt="Typing SVG" />
+  </a>
+</p>
 
-###
+<!-- Social Links -->
+<p align="center">
+  <a href="https://alsiam.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/al-siam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://x.com/_alsiam" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>&nbsp;
+  <a href="https://instagram.com/_alsiam" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;
+  <a href="https://facebook.com/alsiam.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-</div>
+<br>
 
-###
+<!-- About Me -->
+## `> about_me.ts`
 
-<br clear="both">
+```typescript
+const alsiam = {
+    pronouns: "he" | "him",
+    location: "Bangladesh 🇧🇩",
+    role: "Full Stack Developer",
+    company: "Open to opportunities",
+    languages: ["TypeScript", "JavaScript", "Python"],
+    technologies: {
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express"],
+        database: ["MongoDB", "PostgreSQL"],
+        tools: ["Docker", "Git", "VS Code", "Figma"]
+    },
+    currentFocus: "Building beautiful, performant web experiences",
+    funFact: "I think dark mode is the only mode 🌑"
+};
+```
 
-<img data-importer="image" align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJqc2xxbWgydGhxdHJoNWJkd3JlYjc2OXRqcHc5Mzg0NWM0cThoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
+<br>
 
-###
+<!-- Tech Stack -->
+## `> tech_stack`
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,tailwind,docker,git,github,vscode,figma,linux,python,redux,html,css,sass&theme=dark&perline=10" alt="Tech Stack" />
+  </a>
+</p>
 
-###
+<br>
 
-<br clear="both">
+<!-- Featured Projects -->
+## `> featured_projects`
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/randydaniellp22026-wq/randydaniellp22026-wq/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <a href="https://github.com/alsiam/itasks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="iTasks" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/alsiam/folio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=folio&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="folio" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/alsiam/web-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Web Projects" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/alsiam/readme">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=readme&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Profile README" />
+  </a>
+</p>
 
-###
-</div>
+<p align="left">
+  <a href="https://github.com/alsiam?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<img data-importer="image" align="right" height="173" src="https://i.pinimg.com/736x/31/ba/5a/31ba5acc53436f1c40c139685b229a22.jpg"  />
+<br>
 
+<!-- GitHub Stats -->
+## `> github_stats`
 
-<br clear="both">
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false&ring_color=0070F3" alt="Al Siam's Stats" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/alsiam">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Top Languages" />
+  </a>
+</p>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/randydaniellp22026-wq/randydaniellp22026-wq/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&background=000000&border=333333&stroke=333333&ring=0070F3&fire=0070F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0070F3&sideLabels=888888&dates=555555" alt="GitHub Streak" />
+  </a>
+</p>
 
-###
+<br>
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<!-- Contribution Snake -->
+## `> contributions`
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alsiam/alsiam/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alsiam/alsiam/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/alsiam/alsiam/output/github-snake-dark.svg" width="100%">
+</picture>
+
+<br>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20Contribution%20Graph&bg_color=000000&color=EDEDED&line=0070F3&point=00DFD8&area_color=0070F3&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  </a>
+</p>
+
+<br>
+
+<!-- Footer -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img alt="Footer" src="assets/footer-dark.svg" width="100%">
+</picture>
 ###
