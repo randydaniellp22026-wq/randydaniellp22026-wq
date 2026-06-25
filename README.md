@@ -10,7 +10,7 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdvcHV1Z2pvZHd6NndrdDQ4cGU0ZTdrcmU0M2d5MGJpYnYwcXJ0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif)" height="30" alt="javascript logo"  />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdvcHV1Z2pvZHd6NndrdDQ4cGU0ZTdrcmU0M2d5MGJpYnYwcXJ0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
