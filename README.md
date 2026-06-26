@@ -21,7 +21,7 @@
 
 <!-- ====== TROPHY CASE ====== -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=randydaniellp22026-wq&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=08d9d6&text_color=ff2e63" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=randydaniellp22026-wq&theme=algolia&column=7&margin-w=10&margin-h=10&no-frame=true" alt="trophies" />
 </p>
 
 <!-- ====== DIVIDER ====== -->
@@ -52,11 +52,6 @@
 <!-- ====== GIF (autoplays as gif) ====== -->
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJqc2xxbWgydGhxdHJoNWJkd3JlYjc2OXRqcHc5Mzg0NWM0cThoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="420" alt="coding gif" />
-</p>
-
-<!-- ====== SNAKE ====== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/randydaniellp22026-wq/randydaniellp22026-wq/snake-output/snake.svg" width="100%" alt="Snake animation" />
 </p>
 
 <!-- ====== FOOTER VISITS ====== -->
