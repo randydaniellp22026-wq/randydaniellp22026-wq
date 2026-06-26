@@ -1,0 +1,82 @@
+<svg viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg" width="860" height="200" role="img">
+  <defs>
+    <style>
+      .bg-base { fill:#0d1117; }
+      @keyframes borderFlicker {
+        0%,92%,100% { stroke:#30363d; }
+        93% { stroke:#ff2e63; } 94% { stroke:#30363d; }
+        96% { stroke:#08d9d6; } 97% { stroke:#30363d; }
+      }
+      .frame { animation: borderFlicker 4s infinite; }
+      @keyframes scan { 0%{transform:translateY(0);} 100%{transform:translateY(6px);} }
+      .scanlines { animation: scan 0.5s steps(2) infinite; opacity:0.04; }
+      /* typewriter lines */
+      @keyframes type0 { 0%{width:0;} 12%,100%{width:340px;} }
+      @keyframes type1 { 0%,12%{width:0;} 28%,100%{width:300px;} }
+      @keyframes type2 { 0%,28%{width:0;} 44%,100%{width:380px;} }
+      @keyframes type3 { 0%,44%{width:0;} 60%,100%{width:260px;} }
+      @keyframes type4 { 0%,60%{width:0;} 80%,100%{width:420px;} }
+      .l0 rect { animation: type0 6s steps(40) infinite; }
+      .l1 rect { animation: type1 6s steps(40) infinite; }
+      .l2 rect { animation: type2 6s steps(40) infinite; }
+      .l3 rect { animation: type3 6s steps(40) infinite; }
+      .l4 rect { animation: type4 6s steps(40) infinite; }
+      @keyframes caretBlink { 0%,49%{opacity:1;} 50%,100%{opacity:0;} }
+      .caret { animation: caretBlink 0.7s steps(1) infinite; }
+      @keyframes dotR { 0%,100%{fill:#ff5f56;} } 
+    </style>
+    <clipPath id="c0" class="l0"><rect x="60" y="62" width="0" height="14"/></clipPath>
+    <clipPath id="c1" class="l1"><rect x="60" y="84" width="0" height="14"/></clipPath>
+    <clipPath id="c2" class="l2"><rect x="60" y="106" width="0" height="14"/></clipPath>
+    <clipPath id="c3" class="l3"><rect x="60" y="128" width="0" height="14"/></clipPath>
+    <clipPath id="c4" class="l4"><rect x="60" y="150" width="0" height="14"/></clipPath>
+  </defs>
+
+  <rect width="860" height="200" rx="6" class="bg-base"/>
+  <rect x="1" y="1" width="858" height="198" rx="6" fill="none" stroke="#30363d" stroke-width="1.5" class="frame"/>
+
+  <!-- terminal title bar -->
+  <rect x="20" y="18" width="820" height="26" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <circle cx="38" cy="31" r="5" fill="#ff5f56"/>
+  <circle cx="56" cy="31" r="5" fill="#ffbd2e"/>
+  <circle cx="74" cy="31" r="5" fill="#27c93f"/>
+  <text x="430" y="35" font-family="'Courier New', monospace" font-size="11" fill="#6e7681" text-anchor="middle" letter-spacing="1">randy@dev: ~/profile</text>
+
+  <!-- terminal body -->
+  <g font-family="'Courier New', monospace" font-size="13">
+    <g clip-path="url(#c0)"><text x="60" y="73" fill="#08d9d6">$ whoami</text></g>
+    <g clip-path="url(#c1)"><text x="60" y="95" fill="#e6edf3">> Randy Lizarme</text></g>
+    <g clip-path="url(#c2)"><text x="60" y="117" fill="#08d9d6">$ cat role.txt</text></g>
+    <g clip-path="url(#c3)"><text x="60" y="139" fill="#ff2e63">> Full Stack Web Developer</text></g>
+    <g clip-path="url(#c4)"><text x="60" y="161" fill="#e6edf3">> Turning ideas into code_ <tspan fill="#3fb950">[OK]</tspan></text></g>
+  </g>
+
+  <!-- blinking caret at end -->
+  <rect x="280" y="151" width="8" height="13" fill="#08d9d6" class="caret"/>
+
+  <g class="scanlines">
+    <rect x="0" y="50" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="56" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="62" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="68" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="74" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="80" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="86" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="92" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="98" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="104" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="110" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="116" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="122" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="128" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="134" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="140" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="146" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="152" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="158" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="164" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="170" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="176" width="860" height="2" fill="#fff"/>
+    <rect x="0" y="182" width="860" height="2" fill="#fff"/>
+  </g>
+</svg>
