@@ -19,14 +19,6 @@
   <img src="https://streak-stats.demolab.com?user=randydaniellp22026-wq&theme=dark&hide_border=true&background=0d1117&ring=08d9d6&fire=ff2e63&currStreakLabel=08d9d6" height="165" alt="streak stats" />
 </p>
 
-<!-- ====== TROPHY CASE ====== -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=randydaniellp22026-wq&theme=onedark&column=7&margin-w=8&margin-h=8" alt="trophies" />
-</p>
-<!--
-  Si el trophy de arriba no carga (su servidor a veces se cae o llega a su límite diario),
-  borra el bloque de arriba y usa este servicio alternativo más estable:
-
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=randydaniellp22026-wq&theme=github_dark" alt="profile summary" />
   </p>
