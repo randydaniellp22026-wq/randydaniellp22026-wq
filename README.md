@@ -62,10 +62,6 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJqc2xxbWgydGhxdHJoNWJkd3JlYjc2OXRqcHc5Mzg0NWM0cThoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="420" alt="coding gif" />
 </p>
 
-<!-- ====== SNAKE ====== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/randydaniellp22026-wq/randydaniellp22026-wq/snake-output/snake.svg" width="100%" alt="Snake animation" />
-</p>
 
 <!-- ====== FOOTER VISITS ====== -->
 <p align="center">
