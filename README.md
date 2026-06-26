@@ -18,8 +18,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="30" alt="aws logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/github/ffffff" height="30" alt="github logo" />
 </div>
 
