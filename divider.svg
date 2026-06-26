@@ -1,0 +1,22 @@
+<svg viewBox="0 0 860 30" xmlns="http://www.w3.org/2000/svg" width="860" height="30" role="img">
+  <defs>
+    <style>
+      @keyframes dash {
+        0% { stroke-dashoffset: 0; }
+        100% { stroke-dashoffset: -40; }
+      }
+      .moving-dash { stroke-dasharray: 8 12; animation: dash 1.5s linear infinite; }
+      @keyframes blip {
+        0%,100% { fill:#08d9d6; transform: scale(1); }
+        50% { fill:#ff2e63; transform: scale(1.4); }
+      }
+      .blip-0 { animation: blip 2s ease-in-out infinite; transform-origin: 200px 15px; }
+      .blip-1 { animation: blip 2s ease-in-out infinite 0.6s; transform-origin: 430px 15px; }
+      .blip-2 { animation: blip 2s ease-in-out infinite 1.2s; transform-origin: 660px 15px; }
+    </style>
+  </defs>
+  <line x1="40" y1="15" x2="820" y2="15" stroke="#30363d" stroke-width="1.5" class="moving-dash"/>
+  <circle cx="200" cy="15" r="3" class="blip-0"/>
+  <circle cx="430" cy="15" r="3" class="blip-1"/>
+  <circle cx="660" cy="15" r="3" class="blip-2"/>
+</svg>

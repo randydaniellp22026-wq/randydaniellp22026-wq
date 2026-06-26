@@ -1,0 +1,84 @@
+<svg viewBox="0 0 860 120" xmlns="http://www.w3.org/2000/svg" width="860" height="120" role="img">
+  <defs>
+    <style>
+      .bg-base { fill:#0d1117; }
+      @keyframes borderFlicker {
+        0%,92%,100% { stroke:#30363d; }
+        93% { stroke:#ff2e63; } 94% { stroke:#30363d; }
+        96% { stroke:#08d9d6; } 97% { stroke:#30363d; }
+      }
+      .frame { animation: borderFlicker 4s infinite; }
+      @keyframes labelPulse { 0%,100%{opacity:0.55;} 50%{opacity:1;} }
+      .label-text { animation: labelPulse 2.5s ease-in-out infinite; }
+      @keyframes floatChip {
+        0%,100% { transform: translateY(0); }
+        50% { transform: translateY(-5px); }
+      }
+      .chip-0 { animation: floatChip 2.4s ease-in-out infinite; }
+      .chip-1 { animation: floatChip 2.4s ease-in-out infinite 0.2s; }
+      .chip-2 { animation: floatChip 2.4s ease-in-out infinite 0.4s; }
+      .chip-3 { animation: floatChip 2.4s ease-in-out infinite 0.6s; }
+      .chip-4 { animation: floatChip 2.4s ease-in-out infinite 0.8s; }
+      .chip-5 { animation: floatChip 2.4s ease-in-out infinite 1.0s; }
+      .chip-6 { animation: floatChip 2.4s ease-in-out infinite 1.2s; }
+      .chip-7 { animation: floatChip 2.4s ease-in-out infinite 1.4s; }
+      @keyframes chipGlow {
+        0%,100% { stroke:#30363d; } 50% { stroke:#08d9d6; }
+      }
+      .chip-box { animation: chipGlow 3s ease-in-out infinite; }
+      @keyframes idxFlicker { 0%,100%{opacity:0.4;} 50%{opacity:0.15;} 51%{opacity:0.6;} }
+      .index-text { animation: idxFlicker 3s infinite; }
+    </style>
+  </defs>
+
+  <rect width="860" height="120" rx="6" class="bg-base"/>
+  <rect x="1" y="1" width="858" height="118" rx="6" fill="none" stroke="#30363d" stroke-width="1.5" class="frame"/>
+
+  <rect x="40" y="22" width="120" height="20" rx="2" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="50" y="36" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" letter-spacing="2" class="label-text">[ TECH STACK ]</text>
+  <text x="820" y="36" font-family="'Courier New', monospace" font-size="10" fill="#6e7681" letter-spacing="1" text-anchor="end" class="index-text">02 / STACK</text>
+
+  <!-- chips row -->
+  <g transform="translate(40, 60)">
+    <g class="chip-0" transform="translate(0,0)">
+      <rect x="0" y="0" width="90" height="40" rx="3" fill="#161b22" stroke="#30363d" stroke-width="1" class="chip-box"/>
+      <image x="10" y="8" width="24" height="24" href="https://cdn.simpleicons.org/javascript/F7DF1E"/>
+      <text x="42" y="25" font-family="'Courier New', monospace" font-size="10" fill="#e6edf3" letter-spacing="0.5">JS</text>
+    </g>
+    <g class="chip-1" transform="translate(100,0)">
+      <rect x="0" y="0" width="100" height="40" rx="3" fill="#161b22" stroke="#30363d" stroke-width="1" class="chip-box"/>
+      <image x="10" y="8" width="24" height="24" href="https://cdn.simpleicons.org/typescript/3178C6"/>
+      <text x="42" y="25" font-family="'Courier New', monospace" font-size="10" fill="#e6edf3" letter-spacing="0.5">TS</text>
+    </g>
+    <g class="chip-2" transform="translate(210,0)">
+      <rect x="0" y="0" width="100" height="40" rx="3" fill="#161b22" stroke="#30363d" stroke-width="1" class="chip-box"/>
+      <image x="10" y="8" width="24" height="24" href="https://cdn.simpleicons.org/react/61DAFB"/>
+      <text x="42" y="25" font-family="'Courier New', monospace" font-size="9" fill="#e6edf3" letter-spacing="0.5">REACT</text>
+    </g>
+    <g class="chip-3" transform="translate(320,0)">
+      <rect x="0" y="0" width="100" height="40" rx="3" fill="#161b22" stroke="#30363d" stroke-width="1" class="chip-box"/>
+      <image x="10" y="8" width="24" height="24" href="https://cdn.simpleicons.org/html5/E34F26"/>
+      <text x="42" y="25" font-family="'Courier New', monospace" font-size="9" fill="#e6edf3" letter-spacing="0.5">HTML5</text>
+    </g>
+    <g class="chip-4" transform="translate(430,0)">
+      <rect x="0" y="0" width="90" height="40" rx="3" fill="#161b22" stroke="#30363d" stroke-width="1" class="chip-box"/>
+      <image x="10" y="8" width="24" height="24" href="https://cdn.simpleicons.org/css3/1572B6"/>
+      <text x="42" y="25" font-family="'Courier New', monospace" font-size="9" fill="#e6edf3" letter-spacing="0.5">CSS3</text>
+    </g>
+    <g class="chip-5" transform="translate(530,0)">
+      <rect x="0" y="0" width="110" height="40" rx="3" fill="#161b22" stroke="#30363d" stroke-width="1" class="chip-box"/>
+      <image x="10" y="8" width="24" height="24" href="https://cdn.simpleicons.org/python/3776AB"/>
+      <text x="42" y="25" font-family="'Courier New', monospace" font-size="9" fill="#e6edf3" letter-spacing="0.5">PYTHON</text>
+    </g>
+    <g class="chip-6" transform="translate(650,0)">
+      <rect x="0" y="0" width="80" height="40" rx="3" fill="#161b22" stroke="#30363d" stroke-width="1" class="chip-box"/>
+      <image x="10" y="8" width="24" height="24" href="https://cdn.simpleicons.org/amazonwebservices/FF9900"/>
+      <text x="42" y="25" font-family="'Courier New', monospace" font-size="9" fill="#e6edf3" letter-spacing="0.5">AWS</text>
+    </g>
+    <g class="chip-7" transform="translate(740,0)">
+      <rect x="0" y="0" width="80" height="40" rx="3" fill="#161b22" stroke="#30363d" stroke-width="1" class="chip-box"/>
+      <image x="10" y="8" width="24" height="24" href="https://cdn.simpleicons.org/github/ffffff"/>
+      <text x="42" y="25" font-family="'Courier New', monospace" font-size="9" fill="#e6edf3" letter-spacing="0.5">GIT</text>
+    </g>
+  </g>
+</svg>

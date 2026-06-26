@@ -1,0 +1,72 @@
+<svg viewBox="0 0 860 100" xmlns="http://www.w3.org/2000/svg" width="860" height="100" role="img">
+  <defs>
+    <style>
+      .bg-base { fill:#0d1117; }
+      @keyframes borderFlicker {
+        0%,92%,100% { stroke:#30363d; }
+        93% { stroke:#ff2e63; } 94% { stroke:#30363d; }
+        96% { stroke:#08d9d6; } 97% { stroke:#30363d; }
+      }
+      .frame { animation: borderFlicker 4s infinite; }
+      @keyframes labelPulse { 0%,100%{opacity:0.55;} 50%{opacity:1;} }
+      .label-text { animation: labelPulse 2.5s ease-in-out infinite; }
+      @keyframes slideIn {
+        0% { opacity:0; transform: translateX(-10px); }
+        100% { opacity:1; transform: translateX(0); }
+      }
+      .soc-0 { animation: slideIn 0.5s ease-out 0.1s both; }
+      .soc-1 { animation: slideIn 0.5s ease-out 0.25s both; }
+      .soc-2 { animation: slideIn 0.5s ease-out 0.4s both; }
+      .soc-3 { animation: slideIn 0.5s ease-out 0.55s both; }
+      .soc-4 { animation: slideIn 0.5s ease-out 0.7s both; }
+      @keyframes underline {
+        0%,100% { width:0; opacity:0; }
+        50% { width:100%; opacity:1; }
+      }
+      .ul-cyan { animation: underline 3s ease-in-out infinite; }
+      .ul-pink { animation: underline 3s ease-in-out infinite 1.5s; }
+      @keyframes idxFlicker { 0%,100%{opacity:0.4;} 50%{opacity:0.15;} 51%{opacity:0.6;} }
+      .index-text { animation: idxFlicker 3s infinite; }
+    </style>
+  </defs>
+
+  <rect width="860" height="100" rx="6" class="bg-base"/>
+  <rect x="1" y="1" width="858" height="98" rx="6" fill="none" stroke="#30363d" stroke-width="1.5" class="frame"/>
+
+  <rect x="40" y="20" width="110" height="20" rx="2" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="50" y="34" font-family="'Courier New', monospace" font-size="10" fill="#8b949e" letter-spacing="2" class="label-text">[ CONNECT ]</text>
+  <text x="820" y="34" font-family="'Courier New', monospace" font-size="10" fill="#6e7681" letter-spacing="1" text-anchor="end" class="index-text">03 / SOCIALS</text>
+
+  <g transform="translate(40, 55)">
+    <g class="soc-0">
+      <rect x="0" y="0" width="130" height="32" rx="2" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <image x="10" y="7" width="18" height="18" href="https://cdn.simpleicons.org/discord/5865F2"/>
+      <text x="36" y="21" font-family="'Courier New', monospace" font-size="10" fill="#e6edf3" letter-spacing="1">DISCORD</text>
+      <rect x="10" y="28" height="2" fill="#08d9d6" class="ul-cyan"/>
+    </g>
+    <g class="soc-1" transform="translate(145,0)">
+      <rect x="0" y="0" width="140" height="32" rx="2" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <image x="10" y="7" width="18" height="18" href="https://cdn.simpleicons.org/instagram/E4405F"/>
+      <text x="36" y="21" font-family="'Courier New', monospace" font-size="10" fill="#e6edf3" letter-spacing="1">INSTAGRAM</text>
+      <rect x="10" y="28" height="2" fill="#ff2e63" class="ul-pink"/>
+    </g>
+    <g class="soc-2" transform="translate(300,0)">
+      <rect x="0" y="0" width="135" height="32" rx="2" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <image x="10" y="7" width="18" height="18" href="https://cdn.simpleicons.org/facebook/0866FF"/>
+      <text x="36" y="21" font-family="'Courier New', monospace" font-size="10" fill="#e6edf3" letter-spacing="1">FACEBOOK</text>
+      <rect x="10" y="28" height="2" fill="#08d9d6" class="ul-cyan"/>
+    </g>
+    <g class="soc-3" transform="translate(450,0)">
+      <rect x="0" y="0" width="110" height="32" rx="2" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <image x="10" y="7" width="18" height="18" href="https://cdn.simpleicons.org/gmail/EA4335"/>
+      <text x="36" y="21" font-family="'Courier New', monospace" font-size="10" fill="#e6edf3" letter-spacing="1">GMAIL</text>
+      <rect x="10" y="28" height="2" fill="#ff2e63" class="ul-pink"/>
+    </g>
+    <g class="soc-4" transform="translate(575,0)">
+      <rect x="0" y="0" width="130" height="32" rx="2" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <image x="10" y="7" width="18" height="18" href="https://cdn.simpleicons.org/linkedin/0A66C2"/>
+      <text x="36" y="21" font-family="'Courier New', monospace" font-size="10" fill="#e6edf3" letter-spacing="1">LINKEDIN</text>
+      <rect x="10" y="28" height="2" fill="#08d9d6" class="ul-cyan"/>
+    </g>
+  </g>
+</svg>
